@@ -1,0 +1,9 @@
+0 horizontal_line
+1 vertical_line
+2 square
+3 circle
+4 triangle
+5 U
+6 V
+7 star
+8 background
